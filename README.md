@@ -4,7 +4,7 @@ Berikut adalah template `README.md` untuk proyek GitHub Anda terkait aplikasi **
 
 # PuLID-FLUX: Pure and Lightning ID Customization via Contrastive Alignment
 
-![PuLID-FLUX](https://i.ibb.co.com/ynqKvrr/banner-pulid.jpg)
+![PuLID-FLUX](https://camo.githubusercontent.com/f43b5f3938b966a39b17c9bd331c766893c89b6fa529190c4a5a1f16df06d99e/68747470733a2f2f692e6962622e636f2e636f6d2f796e714b7672722f62616e6e65722d70756c69642e6a7067)
 
 PuLID-FLUX adalah aplikasi berbasis AI untuk menyesuaikan gambar wajah melalui **Contrastive Alignment**. Aplikasi ini dibangun menggunakan Gradio dan mendukung kustomisasi mendalam untuk menghasilkan gambar beresolusi tinggi. PuLID-FLUX memberikan kemampuan untuk mengubah detail gambar wajah dengan berbagai parameter yang dapat disesuaikan, seperti **timestep to start inserting ID**, **true CFG scale**, dan banyak lagi.
 
